@@ -460,6 +460,82 @@ p.text-muted {
 /* ======== end customer review section ======== */
 
 
+/* ======== start step-up CSS ======== */
+.step-up-section{
+background-color: #ff5009cf;
+padding: 100px 0px 80px;
+
+}
+.store-link svg {
+    height: 25px;
+    width: 25px;
+    margin-right: 10px;
+}
+
+.store-link p {
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+}
+
+.store-link h4 {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    text-align: start;
+}
+
+.store-link {
+    background-color: #6a646470;
+    margin: 15px;
+    padding: 8px 12px;
+    color: #ffffff;
+    border-radius: 10px;
+}
+
+.step-title h2 {
+    font-size: 45px;
+    font-weight: bold;
+    color: #fffbfb;
+}
+
+.step-title p {
+    font-size: 20px;
+    font-weight: 600;
+    color: #fffbfb;
+}
+
+.step-title {
+    padding-bottom: 40px;
+}
+
+.input-submit input[type="text"] {
+    border: none;
+    padding: 15px 30px;
+    border-radius: 40px;
+}
+
+.input-submit button {
+    border: none;
+    color:#ff5009cf ;
+    padding: 15px 30px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.button-bottom{
+    color: #fffbfb;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.input-submit h5{
+    color: #fffbfb;
+}
+
+
+/* ======== start step-up CSS ======== */
+
+
+
 
 /* ======== start footer section ======== */
 .footer-top{
